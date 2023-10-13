@@ -1,0 +1,73 @@
+.rfla-item {
+    line-height: 60px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.05);
+
+    /* Modifiers */
+    /* Taken from https://clrs.cc/ */
+    &--navy {
+        background-color: #001f3f;
+    }
+
+    &--blue {
+        background-color: #0074d9;
+    }
+
+    &--aqua {
+        background-color: #7fdbff;
+    }
+
+    &--teal {
+        background-color: #39cccc;
+    }
+
+    &--olive {
+        background-color: #3d9970;
+    }
+
+    &--green {
+        background-color: #2ecc40;
+    }
+
+    &--lime {
+        background-color: #01ff70;
+    }
+
+    &--yellow {
+        background-color: #ffdc00;
+    }
+
+    &--orange {
+        background-color: #ff851b;
+    }
+
+    &--red {
+        background-color: #ff4136;
+    }
+
+    &--maroon {
+        background-color: #85144b;
+    }
+
+    &--fuchsia {
+        background-color: #f012be;
+    }
+
+    &--purple {
+        background-color: #b10dc9;
+    }
+
+    &--black {
+        background-color: #111111;
+    }
+
+    &--gray {
+        background-color: #aaaaaa;
+    }
+
+    &--silver {
+        background-color: #dddddd;
+    }
+}
