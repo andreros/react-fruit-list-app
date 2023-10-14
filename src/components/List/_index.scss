@@ -1,7 +1,11 @@
 .rfla-list {
-  margin: 16px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  grid-auto-rows: 60px;
-  grid-gap: 16px;
-}  
+    &__selected-items {
+    }
+
+    &__list-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        grid-auto-rows: 60px;
+        grid-gap: 16px;
+    }
+}

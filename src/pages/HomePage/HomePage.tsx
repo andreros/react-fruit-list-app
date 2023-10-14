@@ -11,8 +11,6 @@ export type THomePageProps = {
 const HomePage: React.FC<THomePageProps> = ({ className }) => {
     const rootClasses = clsx('rfla-home-page', className);
 
-    console.log('items: ', items);
-
     return (
         <div className={rootClasses}>
             <h1>React Fruit List App</h1>
