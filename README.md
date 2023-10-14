@@ -4,7 +4,7 @@ React Fruit List Application to exemplify some React framework features.
 
 ## Implementation goals
 
-Implement a feature to allow item selection with the following requirements:
+Implement a feature to allow item selection with the [following requirements](https://jsfiddle.net/mladylukas/9qmusLok/):
 
 1. Clicking an item selects/unselects it.
 2. Multiple items can be selected at a time.
