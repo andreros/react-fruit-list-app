@@ -1,0 +1,5 @@
+project:
+  name: react-fruit-list-app
+  tz: Europe/Lisbon
+  adrFolder: /docs/adr
+  packages: []

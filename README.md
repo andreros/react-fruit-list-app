@@ -28,10 +28,16 @@ The code is commented in the relevant places for better understanding of each im
 
 -   `React` framework (with Typescript) for the overall application development;
 -   `Typescript` coding language;
--   `SASS` to build the needed application styles;
+-   `SASS` style pre-processor to build the needed application styles;
 -   `DotEnv` to load project environment variables;
 -   `Webpack` to bundle the application and serve it in development mode;
 -   `PicniCSS` lightweight CSS framework for UI styling;
+
+## Application Support tools
+
+-   `Prettier` for code formatting;
+-   `Webpack` to bundle the application and serve it in development mode;
+-   `Log4Brains` to manage Architectural Decision Record (ADR) and generate static HTML knowledge base;
 -   `Statoscope` to generate reports about the application;
 
 ## Installation and application bootstrap
